@@ -1,6 +1,7 @@
 This folder contains the pre-trained weights for our standard U-Net implementation, trained with a mean-squared error (MSE) loss function, for the suite of datasets described in our paper. 
 
 The weight files have names such as: "mdck_5x_dapi_1stack_unet_mse.h5" 
+
 They are named using the format:
 "{cell type} _ {magnification} _ {fluorescent filter set} _ 1stack_unet_mse.h5"
 
