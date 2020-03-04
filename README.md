@@ -12,6 +12,6 @@ Users may alternatively examine a sample dataset of MDCK cells, imaged at 20x:
 
  http://arks.princeton.edu/ark:/88435/dsp019880vt87x
  
-Here, DIC images (input) and paired with fluorescent images (output) corresponding to either nuclei or E-cadherin cell-cell junctions. 
+Here, DIC images (input) and paired with fluorescent images (output) corresponding to either nuclei or E-cadherin cell-cell junctions. Additional datasets are available upon request. 
 
-Additional datasets are available upon request. 
+Users may find pre-trained weights for our standard U-Net implementation in the folder entitled "Pretrained_Weights". The README in that folder indicates which weights correspond to which experimental condition.
