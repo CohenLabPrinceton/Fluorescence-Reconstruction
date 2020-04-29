@@ -2,6 +2,13 @@
 
 All source code for this project can be found in the folder entitled "Code_For_Distribution", along with the User Manual. The User Manual contains instructions for training and testing a U-Net and processing new data. 
 
+Our complete testing dataset, along with corresponding reconstructed images, can be found at:
+
+http://arks.princeton.edu/ark:/88435/dsp013r074x85b
+
+
+If you prefer a smaller dataset for rapid testing, we provide subsets of some of our data at the sources below.
+
 A sample dataset for testing our code may be found at:
 
 http://arks.princeton.edu/ark:/88435/dsp019w032593v
@@ -12,6 +19,7 @@ Users may alternatively examine a sample dataset of MDCK cells, imaged at 20x:
 
  http://arks.princeton.edu/ark:/88435/dsp019880vt87x
  
-Here, DIC images (input) and paired with fluorescent images (output) corresponding to either nuclei or E-cadherin cell-cell junctions. Additional datasets are available upon request. 
+Here, DIC images (input) and paired with fluorescent images (output) corresponding to either nuclei or E-cadherin cell-cell junctions. 
+
 
 Users may find pre-trained weights for our standard U-Net implementation in the folder entitled "Pretrained_Weights". The README in that folder indicates which weights correspond to which experimental condition.
