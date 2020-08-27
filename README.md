@@ -2,6 +2,11 @@
 
 All source code for this project can be found in the folder entitled "Code_For_Distribution", along with the User Manual. The User Manual contains instructions for training and testing a U-Net and processing new data. 
 
+For the fastest introduction to applying the U-Net model with pre-trained weights, please see our demo Jupyter notebook at this link:
+
+https://github.com/CohenLabPrinceton/Fluorescence-Reconstruction/tree/master/How_To_Use_The_Model
+
+
 Our complete testing dataset, along with corresponding reconstructed images, can be found at:
 
 http://doi.org/10.5281/zenodo.3783678
