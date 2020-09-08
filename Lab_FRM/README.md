@@ -1,6 +1,8 @@
 
 This folder contains cleaned FRM code for anyone who just wants to capture some data and get a model trained quickly. 
 
+To automatically install the required Python libraries for running the scripts locally, run "install_requirements.sh", for example: "sh install_requirements.sh".
+
 To train a model, download the contents of this folder, set up the parameters in "main.py" and run it as a Python script. 
 Once you trained the model, you can process new images using "process_new_images.py" in the same way. 
 
