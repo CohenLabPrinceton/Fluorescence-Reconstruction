@@ -14,7 +14,7 @@ If you want to quickly train a new model with your own data without thinking abo
 
 https://github.com/CohenLabPrinceton/Fluorescence-Reconstruction/tree/master/Lab_FRM
 
-There, you will be able to run a single Python script (called "main.py") which will process the data and train/test the model. A second script will enable you to use that trained model on new test images. 
+There, you will be able to run a single Python script (called "main.py") which will process the data and train/test the model. A second script (called "process_new_images.py") will enable you to use that trained model on new test images. 
 
 --------------------------------------------------------------------------------------------------
 
